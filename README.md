@@ -34,6 +34,7 @@ The order of the notebooks is as follows:
 - embeddings_to_embeddings_model-hyper-parameters (optional): where the novel DNN encoder-decoder model is created and hyper-parameters are tested.
 - embeddings_to_embeddings_model-final: where the final Encoder-Decoder model is created and saved.
 - recommendation: where the final recommending functions using the models are created and all methods are evaluated.
+- data_exploration (optional): where the Spotify dataset is explored. 
 
 In addition, there is another python module:
 - evaluation_metrics: where two evaluation methods are created. The evaluation methods are the one recommended by Spotify for the Dataset.
